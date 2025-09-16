@@ -40,4 +40,4 @@ def jojo_stand(name):
         print("木大木大")
 jojo_stand("Star Platinum")
 ```
-![Profile Picture](profile.jpg "我的頭像")
+![Profile Picture](profile.jpeg "我的頭像")
