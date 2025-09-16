@@ -42,3 +42,5 @@ def jojo_stand(name):
 jojo_stand("Star Platinum")
 ```
 ![Profile Picture](profile.jpeg "我的頭像")
+
+[點此獲得恩嘉紅寶石](https://www.youtube.com/watch?v=UQ-g0BdpbDM)
