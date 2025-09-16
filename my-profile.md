@@ -1,6 +1,6 @@
 # My Profile
 
-![Profile Picture](profile.jpg "我的頭像")
+
 
 ## 個人資訊
 - **姓名**：辜雅雯
@@ -35,3 +35,5 @@ def jojo_stand(name):
     elif name == "The World":
         print("木大木大")
 jojo_stand("Star Platinum")
+```
+![Profile Picture](profile.jpg "我的頭像")
