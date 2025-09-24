@@ -2,5 +2,6 @@
 ![PERT Picture](PERT.png "PERT圖")
 
 ## 2. 甘特圖
+![Mermaid Chart](Mermaid_Chart.png "甘特圖")
 
 ## 3. 關鍵路徑
