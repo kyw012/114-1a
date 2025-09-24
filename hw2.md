@@ -1,4 +1,5 @@
 ## 1. PERT/CPM 圖
+![PERT Picture](PERT.png "PERT圖")
 
 ## 2. 甘特圖
 
